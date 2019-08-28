@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\build_opencv342\build\install\include;D:\build_opencv342\build\install\include\opencv;D:\build_opencv342\build\install\include\opencv2;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>D:\build_opencv342\build\install\x64\vc14\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opencv_aruco342d.lib;opencv_bgsegm342d.lib;opencv_bioinspired342d.lib;opencv_calib3d342d.lib;opencv_ccalib342d.lib;opencv_core342d.lib;opencv_datasets342d.lib;opencv_dnn342d.lib;opencv_dnn_objdetect342d.lib;opencv_dpm342d.lib;opencv_face342d.lib;opencv_features2d342d.lib;opencv_flann342d.lib;opencv_fuzzy342d.lib;opencv_hfs342d.lib;opencv_highgui342d.lib;opencv_imgcodecs342d.lib;opencv_imgproc342d.lib;opencv_img_hash342d.lib;opencv_line_descriptor342d.lib;opencv_ml342d.lib;opencv_objdetect342d.lib;opencv_optflow342d.lib;opencv_phase_unwrapping342d.lib;opencv_photo342d.lib;opencv_plot342d.lib;opencv_reg342d.lib;opencv_rgbd342d.lib;opencv_saliency342d.lib;opencv_shape342d.lib;opencv_stereo342d.lib;opencv_stitching342d.lib;opencv_structured_light342d.lib;opencv_superres342d.lib;opencv_surface_matching342d.lib;opencv_text342d.lib;opencv_tracking342d.lib;opencv_video342d.lib;opencv_videoio342d.lib;opencv_videostab342d.lib;opencv_viz342d.lib;opencv_xfeatures2d342d.lib;opencv_ximgproc342d.lib;opencv_xobjdetect342d.lib;opencv_xphoto342d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>

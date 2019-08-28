@@ -1,0 +1,52 @@
+ 驱动器 D 中的卷是 文档
+ 卷的序列号是 F0A4-5437
+
+ D:\build_opencv342\build\install\x64\vc14\lib 的目录
+
+2019/08/21  17:08           281,326 opencv_aruco342d.lib
+2019/08/21  17:09           283,324 opencv_bgsegm342d.lib
+2019/08/21  17:08           195,664 opencv_bioinspired342d.lib
+2019/08/21  17:08           321,472 opencv_calib3d342d.lib
+2019/08/21  17:09           297,866 opencv_ccalib342d.lib
+2019/08/21  17:07           807,386 opencv_core342d.lib
+2019/08/21  17:09           256,400 opencv_datasets342d.lib
+2019/08/21  17:08           442,814 opencv_dnn342d.lib
+2019/08/21  17:08           227,190 opencv_dnn_objdetect342d.lib
+2019/08/21  17:08           194,272 opencv_dpm342d.lib
+2019/08/21  17:08           282,536 opencv_face342d.lib
+2019/08/21  17:08           332,962 opencv_features2d342d.lib
+2019/08/21  17:07           194,476 opencv_flann342d.lib
+2019/08/21  17:08           198,234 opencv_fuzzy342d.lib
+2019/08/21  17:08           189,104 opencv_hfs342d.lib
+2019/08/21  17:08           233,874 opencv_highgui342d.lib
+2019/08/21  17:08           199,456 opencv_imgcodecs342d.lib
+2019/08/21  17:07           362,986 opencv_imgproc342d.lib
+2019/08/21  17:08           221,584 opencv_img_hash342d.lib
+2019/08/21  17:08           248,232 opencv_line_descriptor342d.lib
+2019/08/21  17:07           248,672 opencv_ml342d.lib
+2019/08/21  17:08           252,806 opencv_objdetect342d.lib
+2019/08/21  17:09           292,150 opencv_optflow342d.lib
+2019/08/21  17:08           214,378 opencv_phase_unwrapping342d.lib
+2019/08/21  17:08           280,716 opencv_photo342d.lib
+2019/08/21  17:08           190,334 opencv_plot342d.lib
+2019/08/21  17:08           223,618 opencv_reg342d.lib
+2019/08/21  17:08           360,774 opencv_rgbd342d.lib
+2019/08/21  17:08           249,176 opencv_saliency342d.lib
+2019/08/21  17:08           234,242 opencv_shape342d.lib
+2019/08/21  17:08           246,122 opencv_stereo342d.lib
+2019/08/21  17:09           804,638 opencv_stitching342d.lib
+2019/08/21  17:09           303,948 opencv_structured_light342d.lib
+2019/08/21  17:08           289,112 opencv_superres342d.lib
+2019/08/21  17:07           210,254 opencv_surface_matching342d.lib
+2019/08/21  17:08           321,568 opencv_text342d.lib
+2019/08/21  17:09           398,396 opencv_tracking342d.lib
+2019/08/21  17:08           231,856 opencv_video342d.lib
+2019/08/21  17:08           232,474 opencv_videoio342d.lib
+2019/08/21  17:08           536,552 opencv_videostab342d.lib
+2019/08/21  17:07           298,410 opencv_viz342d.lib
+2019/08/21  17:08           358,604 opencv_xfeatures2d342d.lib
+2019/08/21  17:08           373,472 opencv_ximgproc342d.lib
+2019/08/21  17:08           205,122 opencv_xobjdetect342d.lib
+2019/08/21  17:08           204,246 opencv_xphoto342d.lib
+              45 个文件     13,332,798 字节
+               0 个目录 93,230,772,224 可用字节

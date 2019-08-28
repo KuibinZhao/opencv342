@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Label="PropertySheets" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup />
+  <ItemDefinitionGroup>
+    <ClCompile>
+      <AdditionalIncludeDirectories>D:\build_opencv342\build\install\include;D:\build_opencv342\build\install\include\opencv;D:\build_opencv342\build\install\include\opencv2</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>D:\build_opencv342\build\install\x64\vc14\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opencv_aruco342.lib;opencv_bgsegm342.lib;opencv_bioinspired342.lib;opencv_calib3d342.lib;opencv_ccalib342.lib;opencv_core342.lib;opencv_datasets342.lib;opencv_dnn342.lib;opencv_dnn_objdetect342.lib;opencv_dpm342.lib;opencv_face342.lib;opencv_features2d342.lib;opencv_flann342.lib;opencv_fuzzy342.lib;opencv_hfs342.lib;opencv_highgui342.lib;opencv_imgcodecs342.lib;opencv_imgproc342.lib;opencv_img_hash342.lib;opencv_line_descriptor342.lib;opencv_ml342.lib;opencv_objdetect342.lib;opencv_optflow342.lib;opencv_phase_unwrapping342.lib;opencv_photo342.lib;opencv_plot342.lib;opencv_reg342.lib;opencv_rgbd342.lib;opencv_saliency342.lib;opencv_shape342.lib;opencv_stereo342.lib;opencv_stitching342.lib;opencv_structured_light342.lib;opencv_superres342.lib;opencv_surface_matching342.lib;opencv_text342.lib;opencv_tracking342.lib;opencv_video342.lib;opencv_videoio342.lib;opencv_videostab342.lib;opencv_viz342.lib;opencv_xfeatures2d342.lib;opencv_ximgproc342.lib;opencv_xobjdetect342.lib;opencv_xphoto342.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup />
+</Project>
